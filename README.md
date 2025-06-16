@@ -1,4 +1,4 @@
-# Axie Checker
+# Ronin Checker by Bubble 
 
 Программа для проверки адресов и кеев Ronin на наличие токенов и NFT Axie Infinity.
 
