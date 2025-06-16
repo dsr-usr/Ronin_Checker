@@ -1,0 +1,18 @@
+{
+  "name": "axie-checker",
+  "version": "1.0.0",
+  "description": "Чекер адресов Axie на наличие токенов и NFT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "https-proxy-agent": "^7.0.4",
+    "cli-progress": "^3.12.0",
+    "winston": "^3.11.0",
+    "ethers": "^6.11.1",
+    "fs-extra": "^11.2.0",
+    "bignumber.js": "^9.1.1"
+  }
+} 
